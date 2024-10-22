@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hola 👋
 
+FullStack Developer orientado a Back-End || Estudiante de Ingeniería en Sistemas de Información.
+
+Me considero una persona proactiva y pragmática ante todas las situaciones que se me presenten.
+Soy autoexigente, me gusta adquirir nuevos conocimientos y mejorar los ya adquiridos. 
+Disfruto mucho de trabajar en equipo y me considero un buen líder motivador.
+
+SKILLS: C/C++ - Java - TypeScript - Javascript- ReactJS - NodeJS - Express - TypeORM - MongoDB - PostgreSQL- HTML5- CSS3 - SCRUM - GIT - TRELLO - SLACK
 <!--
 **MatiasAhumada/MatiasAhumada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
