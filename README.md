@@ -1,8 +1,8 @@
 <div align="center">
 
-![Matías Ahumada — Full Stack Developer · Foco en Backend](assets/profile-header-delta-labs.svg)
+![Matías Ahumada — Full Stack Developer · Fundador de Delta Labs](assets/profile-header-full-stack.svg)
 
-Construyo productos que conectan plataformas web, aplicaciones móviles y servicios.
+De la idea a producción: diseño, desarrollo y despliegue de productos digitales.
 <br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-541BCE?style=flat-square&logo=typescript&logoColor=white)
@@ -14,19 +14,19 @@ Construyo productos que conectan plataformas web, aplicaciones móviles y servic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-494455?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-ahumada-dev)
 [![Email](https://img.shields.io/badge/Hablemos-494455?style=flat-square&logo=gmail&logoColor=white)](mailto:matiasahu772@gmail.com)
 
-Desarrollador freelance · Estudiante de Ingeniería en Sistemas en la UTN
+Fundador de Delta Labs · Desarrollador Full Stack · Estudiante de Ingeniería en Sistemas en la UTN
 
 </div>
 
 ---
 
-## 🧭 Lo que me gusta construir
+## 🧭 De punta a punta
 
-Me interesan los proyectos donde hay que conectar varias piezas: reglas de negocio, pagos, contenido, dispositivos y personas. Mi foco está en el backend, pero también desarrollo interfaces, aplicaciones móviles y herramientas de escritorio.
+Soy desarrollador **Full Stack** y acompaño todo el recorrido de un producto: entender el negocio, definir una primera solución, diseñar la experiencia y construir el frontend, el backend y sus integraciones.
 
-Trabajo principalmente con **TypeScript, NestJS, Next.js y PostgreSQL**, desde el modelo de datos hasta el despliegue.
+También me encargo de la infraestructura: **servidores Linux, configuración de servicios, automatización de despliegues y mantenimiento en producción**. Desarrollo para web, móvil y escritorio, y sigo acompañando la evolución del producto después de entregarlo.
 
-> **Δ Estoy iniciando [Delta Labs](https://deltalab.cloud)**, mi startup de software: un espacio para diseñar y construir productos digitales que puedan evolucionar. Es el próximo paso de mi recorrido como desarrollador.
+> **Δ Estoy construyendo [Delta Labs](https://deltalab.cloud)**, mi startup de software. Partimos de un problema real, construimos un MVP y lo hacemos crecer con nuevos módulos, automatizaciones e integraciones cuando el negocio lo necesita.
 
 ## 🚀 Proyectos destacados
 
@@ -64,7 +64,7 @@ Incluye gestión de cuentas con datos aislados, gráficos de evolución y entreg
 
 `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Recharts` · `Google OAuth`
 
-*Estos proyectos tienen repositorios privados. Si te interesa conocer más sobre mi trabajo, [conversemos](mailto:matiasahu772@gmail.com).*
+*Estos proyectos tienen repositorios privados. Podés conocer más y explorar las demos en [Delta Labs](https://deltalab.cloud), o [escribirme](mailto:matiasahu772@gmail.com).*
 
 <details>
 <summary><strong>También podés explorar mi código público</strong></summary>
@@ -77,11 +77,11 @@ Incluye gestión de cuentas con datos aislados, gráficos de evolución y entreg
 
 ## ⚡ Con qué trabajo
 
-| Backend y datos | Web, móvil y escritorio | Integraciones y despliegue |
+| Backend y datos | Web, móvil y escritorio | Infraestructura e integraciones |
 | --- | --- | --- |
-| NestJS · Node.js · TypeScript | Next.js · React | Mercado Pago · Mux · Firebase |
-| PostgreSQL · Prisma · TypeORM | React Native · Expo · Electron | GitHub Actions · VPS · PM2 |
-| APIs REST · JWT · Zod | Tailwind CSS · shadcn/ui | Docker · Git |
+| NestJS · Node.js · TypeScript | Next.js · React | Linux · VPS · Nginx |
+| PostgreSQL · Prisma · TypeORM | React Native · Expo · Electron | Docker · PM2 · GitHub Actions |
+| APIs REST · JWT · Zod | Tailwind CSS · shadcn/ui | Mercado Pago · Mux · Firebase |
 
 <details>
 <summary><strong>Un poco más sobre mi recorrido</strong></summary>
@@ -100,7 +100,7 @@ Incluye gestión de cuentas con datos aislados, gráficos de evolución y entreg
 
 ### ¿Construimos algo?
 
-Estoy abierto a proyectos freelance y oportunidades en backend o full stack.
+Estoy abierto a proyectos de desarrollo integral y oportunidades Full Stack.
 <br>
 **[Conectemos en LinkedIn](https://linkedin.com/in/matias-ahumada-dev)** · **[Escribime por correo](mailto:matiasahu772@gmail.com)**
 
