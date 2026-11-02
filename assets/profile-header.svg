@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Matías Ahumada — Full Stack Developer</title>
+  <desc id="desc">Foco en Backend. Cabecera azul oscuro con un diagrama de servicios conectados.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142c46"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <circle cx="1055" cy="140" r="180" fill="#38bdf8" opacity=".035"/>
+  <circle cx="1055" cy="140" r="120" fill="none" stroke="#38bdf8" stroke-opacity=".1"/>
+  <rect x="56" y="56" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="56" y="128" fill="#f1f5f9" font-size="56" font-weight="700" letter-spacing="-1.5">Matías Ahumada</text>
+    <text x="58" y="171" fill="#7dd3fc" font-size="24" font-weight="600">Full Stack Developer · Foco en Backend</text>
+    <text x="58" y="221" fill="#94a3b8" font-size="18" letter-spacing="1">WEB / MOBILE / DESKTOP</text>
+  </g>
+  <g fill="none" stroke="#38bdf8" stroke-opacity=".35" stroke-width="2">
+    <path d="M872 140H942M1014 140H1084M978 104V66H1084M978 176V214H1084"/>
+    <rect x="810" y="111" width="62" height="58" rx="12" fill="#10263c"/>
+    <rect x="942" y="104" width="72" height="72" rx="16" fill="#15354d" stroke="#5eead4" stroke-opacity=".7"/>
+    <rect x="1084" y="43" width="58" height="46" rx="10" fill="#10263c"/>
+    <rect x="1084" y="117" width="58" height="46" rx="10" fill="#10263c"/>
+    <rect x="1084" y="191" width="58" height="46" rx="10" fill="#10263c"/>
+  </g>
+  <g fill="none" stroke="#7dd3fc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m833 132-8 8 8 8m16-16 8 8-8 8"/>
+    <path d="M966 132h24m-24 8h24m-24 8h14" stroke="#5eead4"/>
+    <path d="M1103 60h20m-20 12h12M1103 134h20m-20 12h12M1103 208h20m-20 12h12" opacity=".65"/>
+  </g>
+  <rect x="56" y="268" width="1088" height="2" rx="1" fill="url(#accent)" opacity=".6"/>
+</svg>

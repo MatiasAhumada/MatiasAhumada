@@ -1,12 +1,14 @@
 <div align="center">
 
-# Matías Ahumada 👋
-
-### Full Stack Developer · Foco en Backend
+![Matías Ahumada — Full Stack Developer · Foco en Backend](assets/profile-header.svg)
 
 Construyo productos que conectan plataformas web, aplicaciones móviles y servicios.
 <br>
-**TypeScript · NestJS · Next.js · PostgreSQL**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-ahumada-dev)
 [![Email](https://img.shields.io/badge/Hablemos-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matiasahu772@gmail.com)
@@ -17,15 +19,17 @@ Desarrollador freelance · Estudiante de Ingeniería en Sistemas en la UTN
 
 ---
 
-## Lo que me gusta construir
+## 🧭 Lo que me gusta construir
 
 Me interesan los proyectos donde hay que conectar varias piezas: reglas de negocio, pagos, contenido, dispositivos y personas. Mi foco está en el backend, pero también desarrollo interfaces, aplicaciones móviles y herramientas de escritorio.
 
 Trabajo principalmente con **TypeScript, NestJS, Next.js y PostgreSQL**, desde el modelo de datos hasta el despliegue.
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 ### 📱 FinanciaTech
+
+**FINTECH** &nbsp; / &nbsp; Web + Android + Desktop
 
 Un ecosistema para la **venta financiada y gestión de dispositivos Android**: plataforma web para clientes, cuotas y cobranzas; app móvil con comunicación remota por Firebase; y una herramienta portable de escritorio para preparar los equipos.
 
@@ -33,7 +37,11 @@ Integra pagos con Mercado Pago y gestión de licencias, con conciliación y cont
 
 `Next.js` · `React Native / Expo` · `Electron` · `Firebase` · `PostgreSQL`
 
+---
+
 ### 🎓 El Campus de Fran
+
+**EDTECH** &nbsp; / &nbsp; Educación + Video
 
 Una plataforma educativa con experiencias para docentes y alumnos: materias, clases y **acceso a videos según la matrícula y su vigencia**.
 
@@ -41,7 +49,11 @@ Integra Mux para carga directa, procesamiento por webhooks y reproducción con t
 
 `Next.js` · `TypeScript` · `Mux Video` · `Prisma` · `PostgreSQL`
 
+---
+
 ### 🏋️ High-Perfo
+
+**SPORTSTECH** &nbsp; / &nbsp; Entrenamiento + Datos
 
 Una plataforma deportiva que conecta **evaluaciones de atletas, análisis de rendimiento y planificación de entrenamientos**. Permite comparar resultados y definir cargas a partir de evaluaciones, perfiles teóricos o indicaciones del entrenador.
 
@@ -60,7 +72,7 @@ Incluye gestión de cuentas con datos aislados, gráficos de evolución y entreg
 
 </details>
 
-## Con qué trabajo
+## ⚡ Con qué trabajo
 
 | Backend y datos | Web, móvil y escritorio | Integraciones y despliegue |
 | --- | --- | --- |
@@ -81,8 +93,12 @@ Incluye gestión de cuentas con datos aislados, gráficos de evolución y entreg
 
 ---
 
+<div align="center">
+
 ### ¿Construimos algo?
 
 Estoy abierto a proyectos freelance y oportunidades en backend o full stack.
 <br>
 **[Conectemos en LinkedIn](https://linkedin.com/in/matias-ahumada-dev)** · **[Escribime por correo](mailto:matiasahu772@gmail.com)**
+
+</div>
