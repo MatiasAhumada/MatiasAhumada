@@ -5,13 +5,14 @@
 Construyo productos que conectan plataformas web, aplicaciones móviles y servicios.
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-541BCE?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-6D3FE6?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-5436A1?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E8DEFF?style=flat-square&logo=postgresql&logoColor=541BCE)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-ahumada-dev)
-[![Email](https://img.shields.io/badge/Hablemos-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matiasahu772@gmail.com)
+[![Delta Labs](https://img.shields.io/badge/%CE%94_Delta_Labs-541BCE?style=flat-square)](https://deltalab.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-494455?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-ahumada-dev)
+[![Email](https://img.shields.io/badge/Hablemos-494455?style=flat-square&logo=gmail&logoColor=white)](mailto:matiasahu772@gmail.com)
 
 Desarrollador freelance · Estudiante de Ingeniería en Sistemas en la UTN
 
@@ -24,6 +25,8 @@ Desarrollador freelance · Estudiante de Ingeniería en Sistemas en la UTN
 Me interesan los proyectos donde hay que conectar varias piezas: reglas de negocio, pagos, contenido, dispositivos y personas. Mi foco está en el backend, pero también desarrollo interfaces, aplicaciones móviles y herramientas de escritorio.
 
 Trabajo principalmente con **TypeScript, NestJS, Next.js y PostgreSQL**, desde el modelo de datos hasta el despliegue.
+
+> **Δ Estoy iniciando [Delta Labs](https://deltalab.cloud)**, mi startup de software: un espacio para diseñar y construir productos digitales que puedan evolucionar. Es el próximo paso de mi recorrido como desarrollador.
 
 ## 🚀 Proyectos destacados
 
@@ -100,5 +103,7 @@ Incluye gestión de cuentas con datos aislados, gráficos de evolución y entreg
 Estoy abierto a proyectos freelance y oportunidades en backend o full stack.
 <br>
 **[Conectemos en LinkedIn](https://linkedin.com/in/matias-ahumada-dev)** · **[Escribime por correo](mailto:matiasahu772@gmail.com)**
+
+[Conocé Delta Labs ↗](https://deltalab.cloud)
 
 </div>
