@@ -1,6 +1,6 @@
 <div align="center">
 
-![Matías Ahumada — Full Stack Developer · Foco en Backend](assets/profile-header.svg)
+![Matías Ahumada — Full Stack Developer · Foco en Backend](assets/profile-header-delta-labs.svg)
 
 Construyo productos que conectan plataformas web, aplicaciones móviles y servicios.
 <br>
