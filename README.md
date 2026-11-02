@@ -30,7 +30,10 @@ También me encargo de la infraestructura: **servidores Linux, configuración de
 
 ## 🚀 Proyectos destacados
 
-<img align="right" src="assets/projects/financiatech.png" alt="Logo de FinanciaTech" width="112">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/financiatech-white-transparent.svg">
+  <img align="right" src="assets/projects/financiatech-transparent.png" alt="Logo de FinanciaTech" width="112">
+</picture>
 
 ### FinanciaTech
 
@@ -44,7 +47,7 @@ Integra pagos con Mercado Pago y gestión de licencias, con conciliación y cont
 
 ---
 
-<img align="right" src="assets/projects/campus-de-fran.png" alt="Logo de Factor, El Campus de Fran" width="112">
+<img align="right" src="assets/projects/campus-de-fran-transparent.png" alt="Logo de Factor, El Campus de Fran" width="112">
 
 ### El Campus de Fran
 
@@ -58,7 +61,7 @@ Integra Mux para carga directa, procesamiento por webhooks y reproducción con t
 
 ---
 
-<img align="right" src="assets/projects/high-perfo.jpeg" alt="Logo de High-Perfo" width="104">
+<img align="right" src="assets/projects/high-perfo-transparent.png" alt="Logo de High-Perfo" width="104">
 
 ### High-Perfo
 
